@@ -1,5 +1,4 @@
 """
-
  # How to Extract Image Metadata in Python
  # https://www.thepythoncode.com/article/extracting-image-metadata-in-python
  # https://github.com/python-pillow/Pillow/blob/master/src/PIL/ExifTags.py
